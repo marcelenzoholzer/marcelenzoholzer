@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcelenzoholzer
 - 👀 I’m interested in Data Science, Statistics, interpretable Machine Learning, Psychology, and Philosophy!
-- 💞️ I have advanced skills in R programming (using tidyverse & data tables), basic knowledge in Python (Pandas & GeoPandas, NumPy, Matplotlib, Seaborn), HTML & CSS, and also know how to use IBM SPSS and Stata for data preparation, weighting, and analysis.
+- 💞️ I have advanced skills in R programming (using tidyverse, data tables and ggplot2), basic knowledge in Python (Pandas & GeoPandas, NumPy, Matplotlib, Seaborn, Scikit-learn), HTML & CSS, and also know how to use IBM SPSS and Stata for data preparation, weighting, and analysis.
 
 
 <!---
